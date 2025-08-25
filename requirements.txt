@@ -4,3 +4,12 @@ Flask-JWT-Extended
 Flask-SQLAlchemy
 python-dotenv
 gunicorn
+Flask==3.1.2
+Flask-Cors==4.0.0
+Flask-JWT-Extended==4.5.3
+Flask_Bcrypt==1.0.1
+Flask-SQLAlchemy==3.1.1
+python-dotenv==1.0.1
+Werkzeug==3.0.1
+PyJWT==2.10.1
+requests==2.31.0
